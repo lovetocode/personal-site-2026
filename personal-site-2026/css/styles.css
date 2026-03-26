@@ -1,4 +1,52 @@
+/* color palette
+
+  Blue green : #9ECECE
+  light gray : DFE1E3
+  gray : BCB4B9
+  dark gray : 4C4C54
+  dark blue green : 2CB4BC
+  
+  */
+  
+  
+/* Global Styles */
+
 body {
-  background : #00bfff;
+  background : #fff;
+
 }
+
+/* Resume */
+
+  
+
+/* Home */
+
+ .home {
+ 
+   background : url(../images/bg-sunset-ocean.jpg) no-repeat;
+   background-size : cover;
+   
+   }
+   
+  .home .home-text {
+  
+     background : rgb(44 180 188 / 0.9)
+  
+    }
+   
+
+/* Footer */
+    
+    .footer {
+    
+     background : rgb(223 225 227 / 0.9)
+     
+     }
+     
+      
+
+
+
+/* links */ 
 
