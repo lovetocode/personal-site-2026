@@ -5,6 +5,7 @@
   gray : BCB4B9
   dark gray : 4C4C54
   dark blue green : 2CB4BC
+  pink #ff7f74
   
   */
   
@@ -13,6 +14,22 @@
 
 body {
   background : #fff;
+
+}
+
+
+a {
+  
+   color: #4C4C54;
+   
+ }
+ 
+a:hover {
+
+  color: #ff7f74;
+  text-decoration: none;
+
+   
 
 }
 
